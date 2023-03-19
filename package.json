@@ -1,0 +1,24 @@
+{
+    "name": "sdt_ht",
+    "version": "1.0.0",
+    "description": "",
+    "main": "",
+    "scripts": {
+        "task1": "node task_1.js",
+        "task2": "node task_2.js",
+        "task3": "node task_3.js",
+        "task4": "node task_4.js",
+        "task5": "node task_5.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/MaxMoskalenko/Maksym_Moskalenko.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/MaxMoskalenko/Maksym_Moskalenko/issues"
+    },
+    "homepage": "https://github.com/MaxMoskalenko/Maksym_Moskalenko#readme"
+}
