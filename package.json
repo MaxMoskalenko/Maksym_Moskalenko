@@ -8,7 +8,8 @@
         "task2": "node task_2.js",
         "task3": "node task_3.js",
         "task4": "node task_4.js",
-        "task5": "node task_5.js"
+        "task5": "node task_5.js",
+        "test": "cucumber-js"
     },
     "repository": {
         "type": "git",
@@ -20,5 +21,8 @@
     "bugs": {
         "url": "https://github.com/MaxMoskalenko/Maksym_Moskalenko/issues"
     },
-    "homepage": "https://github.com/MaxMoskalenko/Maksym_Moskalenko#readme"
+    "homepage": "https://github.com/MaxMoskalenko/Maksym_Moskalenko#readme",
+    "devDependencies": {
+        "@cucumber/cucumber": "^9.1.0"
+    }
 }
