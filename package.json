@@ -1,0 +1,29 @@
+{
+  "name": "sdt_ht",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "@types/selenium-webdriver": "^4.1.14",
+    "selenium-webdriver": "^4.9.2",
+    "ts-node": "^10.9.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "ts-node index.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MaxMoskalenko/Maksym_Moskalenko.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MaxMoskalenko/Maksym_Moskalenko/issues"
+  },
+  "homepage": "https://github.com/MaxMoskalenko/Maksym_Moskalenko#readme",
+  "devDependencies": {
+    "@types/jest": "^29.5.1"
+  }
+}
